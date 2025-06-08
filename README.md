@@ -1,5 +1,3 @@
-Certainly! Here’s a project description you can use for your Cards Matching Game Flutter Dart repository:
-
 ---
 
 ## Cards Matching Game - Flutter & Dart
@@ -18,7 +16,6 @@ This project is a feature-rich Cards Matching Game built using Flutter and Dart,
 
 - **Flutter & Dart:** For building the cross-platform mobile and web app.
 - **C++ & CMake:** For possible performance-critical components or integrations.
-- **Swift:** For iOS-specific enhancements.
 - **HTML:** For web version and UI elements.
 
 ### Getting Started
@@ -33,9 +30,4 @@ This project is a feature-rich Cards Matching Game built using Flutter and Dart,
    flutter pub get
    flutter run
    ```
-
-### Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/AndrewHrechyn/Cards-Matching-Game-Flutter-Dart/issues) to get started.
-
 ---
